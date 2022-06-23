@@ -1,0 +1,555 @@
+{{Short description|Wikimedia list article}}
+
+This article is a list of the [[List of U.S. states|U.S. states]], with [[population]], [[murder]]s and [[nonnegligent manslaughter|non-negligent manslaughter]], murders, [[Gun violence in the United States|gun murders]], and [[gun ownership]] percentage, then calculated rates per 100,000. The population data is from the [[United States Census Bureau|U.S. Census Bureau]]. Murder rates were calculated based on the [[FBI]] [[Uniform Crime Reports]] and the estimated census population of each state.
+
+The 2015 [[List of U.S. states and territories by population|U.S. population]] total was 320.9 million. The 2015 U.S. overall murder and non-negligent manslaughter rate per 100,000 inhabitants was 4.9.<ref name="Crime">{{Cite news|url=https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/table-4|title=Table 4, Crime in the United States by Region, Geographic Division, and State, 2014–2015|last=Department of Justice|first=Federal Bureau of Investigation|date=September 2016|work=Crime in the United States, 2015|access-date=2017-04-23|language=en-us}}</ref>
+
+The 2019 U.S. population total was 328.2 million.<ref name="Population19">{{Cite web|url=https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html|title=State Population Totals: 2010-2019|last=Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019|first=US Census Bureau|date=December 16, 2021|website=www.census.gov|language=en-US|access-date=2022-06-22}}</ref> The 2019 U.S. overall murder and non-negligent manslaughter rate per 100,000 inhabitants was 5.0.<ref name="Crime19">{{Cite news|url=https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-4|title=Crime in the United States by Region, Geographic Division, and State, 2018–2019|last=Department of Justice|first=Federal Bureau of Investigation|date=September 2020|work=Crime in the United States, 2019|access-date=2022-06-22|language=en-US}}</ref>
+
+== 2015 data ==
+{| class="wikitable"
+|+ Legend
+! style="background: White" | Lowest
+! style="background: #ccffcc" | 1st Quartile
+! style="background: #ffffcc" | 2nd Quartile
+! style="background: #ffddcc" | 3rd Quartile
+! style="background: #ffbbcc" | 4th Quartile
+! style="background: White" | Highest
+|}
+
+{| class="wikitable sortable"
+! data-sort-type="text" | State
+! data-sort-type="number" | Population<br /> <small>(total inhabitants)</small> <br /> <small>(2015)</small> <ref>{{Cite web|url=https://www.census.gov/data/tables/2016/demo/popest/state-total.html|title=Annual Estimates of the Resident Population: April 1, to July 1, 2016|last=Population Division|first=US Census Bureau|date=December 2016|website=www.census.gov|language=en-US|access-date=2017-04-23}}</ref>
+! data-sort-type="number" | Murders and<br />Nonnegligent<br />Manslaughter<br /> <small>(total deaths)</small> <br /> <small>(2015)</small> <ref name="Crime" />
+! data-sort-type="number" | Murders<br /> <small>(total deaths)</small> <br /> <small>(2015)</small> <ref name="Murders">{{Cite news|url=https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/table-20|title=Table 20, Murder by State, Types of Weapons, 2015|last=Department of Justice|first=Federal Bureau of Investigation|date=September 2016|work=Crime in the United States, 2015|access-date=2018-03-19|language=en-us}}</ref>
+! data-sort-type="number" | Gun Murders<br /> <small>(total deaths)</small> <br /> <small>(2015)</small> <ref name="Murders" />
+! data-sort-type="number" | Gun<br />Ownership<br /> <small>(%)</small> <br /> <small>(2013)</small> <ref>{{Cite journal|url= |title=Gun ownership and social gun culture|journal=Injury Prevention|volume=2016|issue=22|pages=216–220|author-link=Kalesan B, Villarreal MD, Keyes KM, ''et al''|date=June 29, 2015|doi=10.1136/injuryprev-2015-041586|language=en-us|pmid=26124073|pmc=4809774 | last1 = Kalesan | first1 = B | last2 = Villarreal | first2 = MD | last3 = Keyes | first3 = KM | last4 = Galea | first4 = S}}</ref>
+! data-sort-type="number" | Murder and<br />Nonnegligent<br />Manslaughter<br />Rate<br /> <small>(per 100,000)</small> <br /> <small>(2015)</small>
+! data-sort-type="number" | Murder Rate<br /> <small>(per 100,000)</small> <br /> <small>(2015)</small>
+! data-sort-type="number" | Gun<br />Murder Rate<br /> <small>(per 100,000)</small> <br /> <small>(2015)</small>
+|-
+| [[Alabama]]
+| style="background: #ffddcc" | 4,853,875
+| style="background: #ffddcc" | 348
+| — {{efn|name=limited-data|Limited supplemental homicide data were received.}}
+| — {{efn|name=limited-data}}
+| style="background: #ffbbcc" | 48.9
+| style="background: #ffbbcc" | 7.2
+| — {{efn|name=limited-data}}
+| — {{efn|name=limited-data}}
+|-
+| [[Alaska]]
+| style="background: #ccffcc" | 737,709
+| style="background: #ccffcc" | 59
+| style="background: #ccffcc" | 57
+| style="background: #ffffcc" | 39
+| style="background: #ffbbcc" | 61.7
+| style="background: #ffbbcc" | 8.0
+| style="background: #ffbbcc" | 7.7
+| style="background: #ffbbcc" | 5.3
+|-
+| [[Arizona]]
+| style="background: #ffddcc" | 6,817,565
+| style="background: #ffddcc" | 306
+| style="background: #ffddcc" | 278
+| style="background: #ffddcc" | 171
+| style="background: #ffddcc" | 32.3
+| style="background: #ffddcc" | 4.5
+| style="background: #ffffcc" | 4.1
+| style="background: #ffffcc" | 2.5
+|-
+| [[Arkansas]]
+| style="background: #ffffcc" | 2,977,853
+| style="background: #ffddcc" | 181
+| style="background: #ffddcc" | 164
+| style="background: #ffffcc" | 110
+| style="background: #ffbbcc" | 57.9
+| style="background: #ffbbcc" | 6.1
+| style="background: #ffddcc" | 5.5
+| style="background: #ffddcc" | 3.7
+|-
+| [[California]]
+| style="background: #ffbbcc" | 38,993,940
+| style="background: #ffbbcc" | 1,861
+| style="background: #ffbbcc" | 1,861
+| style="background: #ffbbcc" | 1,275
+| style="background: #ccffcc" | 20.1
+| style="background: #ffddcc" | 4.8
+| style="background: #ffddcc" | 4.8
+| style="background: #ffddcc" | 3.3
+|-
+| [[Colorado]]
+| style="background: #ffddcc" | 5,448,819
+| style="background: #ffffcc" | 176
+| style="background: #ffddcc" | 176
+| style="background: #ffddcc" | 115
+| style="background: #ffddcc" | 34.3
+| style="background: #ffffcc" | 3.2
+| style="background: #ffffcc" | 3.2
+| style="background: #ffffcc" | 2.1
+|-
+| [[Connecticut]]
+| style="background: #ffffcc" | 3,584,730
+| style="background: #ffffcc" | 117
+| style="background: #ffffcc" | 107
+| style="background: #ffffcc" | 73
+| style="background: #ccffcc" | 16.6
+| style="background: #ffffcc" | 3.3
+| style="background: #ffffcc" | 3.0
+| style="background: #ffffcc" | 2.0
+|-
+| [[Delaware]]
+| style="background: #ccffcc" | 944,076
+| style="background: #ffffcc" | 63
+| style="background: #ffffcc" | 63
+| style="background: #ffffcc" | 52
+| style="background: #ccffcc" | 5.2
+| style="background: #ffbbcc" | 6.7
+| style="background: #ffbbcc" | 6.7
+| style="background: #ffbbcc" | 5.5
+|-
+| [[Florida]]
+| style="background: #ffbbcc" | 20,244,914
+| style="background: #ffbbcc" | 1,041
+| — {{efn|name=no-data|No data available.}}
+| — {{efn|name=no-data}}
+| style="background: #ffddcc" | 32.5
+| style="background: #ffddcc" | 5.1
+| — {{efn|name=no-data}}
+| — {{efn|name=no-data}}
+|-
+| [[Georgia (U.S. state)|Georgia]]
+| style="background: #ffbbcc" | 10,199,398
+| style="background: #ffbbcc" | 615
+| style="background: #ffbbcc" | 565
+| style="background: #ffbbcc" | 464
+| style="background: #ffffcc" | 31.6
+| style="background: #ffddcc" | 6.0
+| style="background: #ffddcc" | 5.5
+| style="background: #ffbbcc" | 4.5
+|-
+| [[Hawaii]]
+| style="background: #ccffcc" | 1,425,157
+| style="background: #ccffcc" | 19
+| style="background: #ccffcc" | 19
+| style="background: #ccffcc" | 4
+| style="background: #ccffcc" | 25.8
+| style="background: #ccffcc" | 1.3
+| style="background: #ccffcc" | 1.3
+| style="background: #ccffcc" | 0.3
+|-
+| [[Idaho]]
+| style="background: #ccffcc" | 1,652,828
+| style="background: #ccffcc" | 32
+| style="background: #ccffcc" | 30
+| style="background: #ccffcc" | 24
+| style="background: #ffbbcc" | 56.9
+| style="background: #ccffcc" | 1.9
+| style="background: #ccffcc" | 1.8
+| style="background: #ccffcc" | 1.5
+|-
+| [[Illinois]]
+| style="background: #ffbbcc" | 12,859,995<ref>{{Cite web|url=http://worldpopulationreview.com/states/illinois-population/|title=Illinois Population 2021 (Demographics, Maps, Graphs)}}</ref>
+| style="background: #ffbbcc" | 744
+| style="background: #ffbbcc" | 497
+| style="background: #ffbbcc" | 440
+| style="background: #ffffcc" | 26.2
+| style="background: #ffddcc" | 5.8
+| style="background: #ffffcc" | 3.9
+| style="background: #ffddcc" | 3.4
+|-
+| [[Indiana]]
+| style="background: #ffddcc" | 6,612,768
+| style="background: #ffddcc" | 373
+| style="background: #ffddcc" | 272
+| style="background: #ffddcc" | 209
+| style="background: #ffddcc" | 33.8
+| style="background: #ffddcc" | 5.6
+| style="background: #ffffcc" | 4.1
+| style="background: #ffddcc" | 3.2
+|-
+| [[Iowa]]
+| style="background: #ffffcc" | 3,121,997
+| style="background: #ffffcc" | 72
+| style="background: #ffffcc" | 72
+| style="background: #ffffcc" | 49
+| style="background: #ffddcc" | 33.8
+| style="background: #ccffcc" | 2.3
+| style="background: #ccffcc" | 2.3
+| style="background: #ffffcc" | 1.6
+|-
+| [[Kansas]]
+| style="background: #ffffcc" | 2,906,721
+| style="background: #ffffcc" | 128
+| style="background: #ffffcc" | 125
+| style="background: #ffffcc" | 91
+| style="background: #ffddcc" | 32.2
+| style="background: #ffffcc" | 4.4
+| style="background: #ffddcc" | 4.3
+| style="background: #ffddcc" | 3.1
+|-
+| [[Kentucky]]
+| style="background: #ffddcc" | 4,424,611
+| style="background: #ffddcc" | 209
+| style="background: #ffddcc" | 209
+| style="background: #ffddcc" | 141
+| style="background: #ffddcc" | 42.4
+| style="background: #ffddcc" | 4.7
+| style="background: #ffddcc" | 4.7
+| style="background: #ffddcc" | 3.2
+|-
+| [[Louisiana]]
+| style="background: #ffddcc" | 4,668,960
+| style="background: #ffbbcc" | 481
+| style="background: #ffbbcc" | 474
+| style="background: #ffbbcc" | 379
+| style="background: #ffbbcc" | 44.5
+| style="background: #ffbbcc" | 10.3
+| style="background: #ffbbcc" | 10.2
+| style="background: #ffbbcc" | 8.1
+|-
+| [[Maine]]
+| style="background: #ccffcc" | 1,329,453
+| style="background: #ccffcc" | 23
+| style="background: #ccffcc" | 23
+| style="background: #ccffcc" | 16
+| style="background: #ccffcc" | 22.6
+| style="background: #ccffcc" | 1.7
+| style="background: #ccffcc" | 1.7
+| style="background: #ccffcc" | 1.2
+|-
+| [[Maryland]]
+| style="background: #ffddcc" | 5,994,983
+| style="background: #ffbbcc" | 516
+| style="background: #ffddcc" | 372
+| style="background: #ffddcc" | 279
+| style="background: #ccffcc" | 20.7
+| style="background: #ffbbcc" | 8.6
+| style="background: #ffbbcc" | 6.2
+| style="background: #ffbbcc" | 4.7
+|-
+| [[Massachusetts]]
+| style="background: #ffddcc" | 6,784,240
+| style="background: #ffffcc" | 128
+| style="background: #ffffcc" | 126
+| style="background: #ffffcc" | 81
+| style="background: #ccffcc" | 22.6
+| style="background: #ccffcc" | 1.9
+| style="background: #ccffcc" | 1.9
+| style="background: #ccffcc" | 1.2
+|-
+| [[Michigan]]
+| style="background: #ffbbcc" | 9,917,715
+| style="background: #ffbbcc" | 571
+| style="background: #ffbbcc" | 571
+| style="background: #ffbbcc" | 389
+| style="background: #ffffcc" | 28.8
+| style="background: #ffddcc" | 5.8
+| style="background: #ffbbcc" | 5.8
+| style="background: #ffbbcc" | 3.9
+|-
+| [[Minnesota]]
+| style="background: #ffddcc" | 5,482,435
+| style="background: #ffffcc" | 133
+| style="background: #ffffcc" | 133
+| style="background: #ffffcc" | 79
+| style="background: #ffddcc" | 36.7
+| style="background: #ccffcc" | 2.4
+| style="background: #ccffcc" | 2.4
+| style="background: #ccffcc" | 1.4
+|-
+| [[Mississippi]]
+| style="background: #ffffcc" | 2,989,390
+| style="background: #ffddcc" | 259
+| style="background: #ffffcc" | 159
+| style="background: #ffddcc" | 126
+| style="background: #ffbbcc" | 42.8
+| style="background: #ffbbcc" | 8.7
+| style="background: #ffddcc" | 5.3
+| style="background: #ffbbcc" | 4.2
+|-
+| [[Missouri]]
+| style="background: #ffddcc" | 6,076,204
+| style="background: #ffbbcc" | 502
+| style="background: #ffbbcc" | 499
+| style="background: #ffbbcc" | 418
+| style="background: #ffffcc" | 27.1
+| style="background: #ffbbcc" | 8.3
+| style="background: #ffbbcc" | 8.2
+| style="background: #ffbbcc" | 6.9
+|-
+| [[Montana]]
+| style="background: #ccffcc" | 1,032,073
+| style="background: #ccffcc" | 36
+| style="background: #ccffcc" | 36
+| style="background: #ccffcc" | 18
+| style="background: #ffbbcc" | 52.3
+| style="background: #ffffcc" | 3.5
+| style="background: #ffffcc" | 3.5
+| style="background: #ffffcc" | 1.7
+|-
+| [[Nebraska]]
+| style="background: #ffffcc" | 1,893,765
+| style="background: #ccffcc" | 62
+| style="background: #ffffcc" | 61
+| style="background: #ffffcc" | 43
+| style="background: #ccffcc" | 19.8
+| style="background: #ffffcc" | 3.3
+| style="background: #ffffcc" | 3.2
+| style="background: #ffffcc" | 2.3
+|-
+| [[Nevada]]
+| style="background: #ffffcc" | 2,883,758
+| style="background: #ffffcc" | 178
+| style="background: #ffddcc" | 177
+| style="background: #ffffcc" | 113
+| style="background: #ffddcc" | 37.5
+| style="background: #ffbbcc" | 6.2
+| style="background: #ffbbcc" | 6.1
+| style="background: #ffbbcc" | 3.9
+|-
+| [[New Hampshire]]
+| style="background: #ccffcc" | 1,330,111
+| style="background: #ccffcc" | 14
+| style="background: #ccffcc" | 14
+| style="background: #ccffcc" | 8
+| style="background: #ccffcc" | 14.4
+| style="background: #ccffcc" | 1.1
+| style="background: #ccffcc" | 1.1
+| style="background: #ccffcc" | 0.6
+|-
+| [[New Jersey]]
+| style="background: #ffbbcc" | 8,935,421
+| style="background: #ffddcc" | 363
+| style="background: #ffddcc" | 353
+| style="background: #ffddcc" | 255
+| style="background: #ccffcc" | 11.3
+| style="background: #ffffcc" | 4.1
+| style="background: #ffffcc" | 4.0
+| style="background: #ffddcc" | 2.9
+|-
+| [[New Mexico]]
+| style="background: #ffffcc" | 2,080,328
+| style="background: #ffffcc" | 117
+| style="background: #ffffcc" | 94
+| style="background: #ffffcc" | 56
+| style="background: #ffbbcc" | 49.9
+| style="background: #ffddcc" | 5.6
+| style="background: #ffddcc" | 4.5
+| style="background: #ffffcc" | 2.7
+|-
+| [[New York (state)|New York]]
+| style="background: #ffbbcc" | 19,747,183
+| style="background: #ffbbcc" | 609
+| style="background: #ffbbcc" | 611
+| style="background: #ffbbcc" | 383
+| style="background: #ccffcc" | 10.3
+| style="background: #ffffcc" | 3.1
+| style="background: #ffffcc" | 3.1
+| style="background: #ffffcc" | 1.9
+|-
+| [[North Carolina]]
+| style="background: #ffbbcc" | 10,035,186
+| style="background: #ffbbcc" | 517
+| style="background: #ffbbcc" | 506
+| style="background: #ffbbcc" | 353
+| style="background: #ffffcc" | 28.7
+| style="background: #ffddcc" | 5.2
+| style="background: #ffddcc" | 5.0
+| style="background: #ffddcc" | 3.5
+|-
+| [[North Dakota]]
+| style="background: #ccffcc" | 756,835
+| style="background: #ccffcc" | 21
+| style="background: #ccffcc" | 17
+| style="background: #ccffcc" | 9
+| style="background: #ffbbcc" | 47.9
+| style="background: #ccffcc" | 2.8
+| style="background: #ccffcc" | 2.2
+| style="background: #ccffcc" | 1.2
+|-
+| [[Ohio]]
+| style="background: #ffbbcc" | 11,605,090
+| style="background: #ffbbcc" | 500
+| style="background: #ffbbcc" | 480
+| style="background: #ffbbcc" | 316
+| style="background: #ccffcc" | 19.6
+| style="background: #ffffcc" | 4.3
+| style="background: #ffffcc" | 4.1
+| style="background: #ffffcc" | 2.7
+|-
+| [[Oklahoma]]
+| style="background: #ffffcc" | 3,907,414
+| style="background: #ffddcc" | 234
+| style="background: #ffddcc" | 233
+| style="background: #ffddcc" | 149
+| style="background: #ffffcc" | 31.2
+| style="background: #ffddcc" | 6.0
+| style="background: #ffbbcc" | 6.0
+| style="background: #ffddcc" | 3.8
+|-
+| [[Oregon]]
+| style="background: #ffffcc" | 4,024,634
+| style="background: #ffffcc" | 99
+| style="background: #ffffcc" | 71
+| style="background: #ccffcc" | 34
+| style="background: #ffffcc" | 26.6
+| style="background: #ccffcc" | 2.5
+| style="background: #ccffcc" | 1.8
+| style="background: #ccffcc" | 0.8
+|-
+| [[Pennsylvania]]
+| style="background: #ffbbcc" | 12,791,904
+| style="background: #ffbbcc" | 658
+| style="background: #ffbbcc" | 651
+| style="background: #ffbbcc" | 497
+| style="background: #ffffcc" | 27.1
+| style="background: #ffddcc" | 5.1
+| style="background: #ffddcc" | 5.1
+| style="background: #ffbbcc" | 3.9
+|-
+| [[Rhode Island]]
+| style="background: #ccffcc" | 1,055,607
+| style="background: #ccffcc" | 29
+| style="background: #ccffcc" | 27
+| style="background: #ccffcc" | 10
+| style="background: #ccffcc" | 5.8
+| style="background: #ccffcc" | 2.7
+| style="background: #ccffcc" | 2.6
+| style="background: #ccffcc" | 0.9
+|-
+| [[South Carolina]]
+| style="background: #ffddcc" | 4,894,834
+| style="background: #ffddcc" | 399
+| style="background: #ffbbcc" | 394
+| style="background: #ffbbcc" | 312
+| style="background: #ffbbcc" | 44.4
+| style="background: #ffbbcc" | 8.2
+| style="background: #ffbbcc" | 8.0
+| style="background: #ffbbcc" | 6.4
+|-
+| [[South Dakota]]
+| style="background: #ccffcc" | 857,919
+| style="background: #ccffcc" | 32
+| style="background: #ccffcc" | 27
+| style="background: #ccffcc" | 12
+| style="background: #ffddcc" | 35.0
+| style="background: #ffffcc" | 3.7
+| style="background: #ffffcc" | 3.1
+| style="background: #ccffcc" | 1.4
+|-
+| [[Tennessee]]
+| style="background: #ffddcc" | 6,595,056
+| style="background: #ffddcc" | 406
+| style="background: #ffbbcc" | 402
+| style="background: #ffbbcc" | 297
+| style="background: #ffddcc" | 39.4
+| style="background: #ffbbcc" | 6.2
+| style="background: #ffbbcc" | 6.1
+| style="background: #ffbbcc" | 4.5
+|-
+| [[Texas]]
+| style="background: #ffbbcc" | 27,429,639
+| style="background: #ffbbcc" | 1,316
+| style="background: #ffbbcc" | 1,276
+| style="background: #ffbbcc" | 906
+| style="background: #ffddcc" | 35.7
+| style="background: #ffddcc" | 4.8
+| style="background: #ffddcc" | 4.7
+| style="background: #ffddcc" | 3.3
+|-
+| [[Utah]]
+| style="background: #ffffcc" | 2,990,632
+| style="background: #ccffcc" | 54
+| style="background: #ccffcc" | 54
+| style="background: #ccffcc" | 34
+| style="background: #ffffcc" | 31.9
+| style="background: #ccffcc" | 1.8
+| style="background: #ccffcc" | 1.8
+| style="background: #ccffcc" | 1.1
+|-
+| [[Vermont]]
+| style="background: #ccffcc" | 626,088
+| style="background: #ccffcc" | 10
+| style="background: #ccffcc" | 10
+| style="background: #ccffcc" | 8
+| style="background: #ffffcc" | 28.8
+| style="background: #ccffcc" | 1.6
+| style="background: #ccffcc" | 1.6
+| style="background: #ccffcc" | 1.3
+|-
+| [[Virginia]]
+| style="background: #ffbbcc" | 8,367,587
+| style="background: #ffddcc" | 383
+| style="background: #ffddcc" | 383
+| style="background: #ffddcc" | 275
+| style="background: #ffffcc" | 29.3
+| style="background: #ffddcc" | 4.6
+| style="background: #ffddcc" | 4.6
+| style="background: #ffddcc" | 3.3
+|-
+| [[Washington (U.S. state)|Washington]]
+| style="background: #ffbbcc" | 7,160,290
+| style="background: #ffddcc" | 211
+| style="background: #ffddcc" | 209
+| style="background: #ffddcc" | 141
+| style="background: #ffffcc" | 27.7
+| style="background: #ffffcc" | 2.9
+| style="background: #ffffcc" | 2.9
+| style="background: #ffffcc" | 2.0
+|-
+| [[West Virginia]]
+| style="background: #ffffcc" | 1,841,053
+| style="background: #ffffcc" | 70
+| style="background: #ccffcc" | 57
+| style="background: #ccffcc" | 30
+| style="background: #ffbbcc" | 54.2
+| style="background: #ffffcc" | 3.8
+| style="background: #ffffcc" | 3.1
+| style="background: #ffffcc" | 1.6
+|-
+| [[Wisconsin]]
+| style="background: #ffddcc" | 5,767,891
+| style="background: #ffddcc" | 240
+| style="background: #ffddcc" | 238
+| style="background: #ffddcc" | 170
+| style="background: #ffddcc" | 34.7
+| style="background: #ffffcc" | 4.2
+| style="background: #ffffcc" | 4.1
+| style="background: #ffddcc" | 2.9
+|-
+| [[Wyoming]]
+| style="background: #ccffcc" | 586,107
+| style="background: #ccffcc" | 16
+| style="background: #ccffcc" | 16
+| style="background: #ccffcc" | 10
+| style="background: #ffbbcc" | 53.8
+| style="background: #ccffcc" | 2.56
+| style="background: #ffffcc" | 2.7
+| style="background: #ffffcc" | 1.7
+|}
+{{notelist}}
+
+[[File:Gun Ownership Related to Gun Violence by State (United States).svg|thumb|Gun Ownership Related to Gun Violence by State (United States)]]
+
+== 2019 data ==
+{| class="wikitable"
+|+ Legend
+! style="background: White" | Lowest
+! style="background: #ccffcc" | 1st Quartile
+! style="background: #ffffcc" | 2nd Quartile
+! style="background: #ffddcc" | 3rd Quartile
+! style="background: #ffbbcc" | 4th Quartile
+! style="background: White" | Highest
+|}
+
+{| class="wikitable sortable"
+! data-sort-type="text" | State
+! data-sort-type="number" | Population<br /> <small>(2019)</small> <ref name="Population19" />
+! data-sort-type="number" | Murder and<br />Nonnegligent<br />Manslaughter<br /> <small>(2019)</small> <ref name="Crime19" />
+! data-sort-type="number" | Murder<br /> <small>(2019)</small>{{efn|name=supplemental-data|Total number of murders for which supplemental homicide data were received.}} <ref name="Murders19">{{Cite news|url=https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-20|title=Murder by State, Types of Weapons, 2019|last=Department of Justice|first=Federal Bureau of Investigation|date=September 2020|work=Crime in the United States, 2019|access-date=2022-06-22|language=en-US}}</ref>
+! data-sort-type="number" | Firearm<br /> Murder<br /> <small>(2019)</small> <ref name="Murders19" />
+! data-sort-type="number" | Household<br /> Firearm<br />Ownership<br /> <small>(%)</small> <br /> <small>(2016)</small> <ref>{{Cite journal|url=https://www.rand.org/pubs/tools/TL354.html|title=State-Level Estimates of Household Firearm Ownership|journal=RAND Corporation Tool series|volume=2020|issue=|pages=33-58|author-link=Terry L. Schell, Samuel Peterson, Brian G. Vegetabile, Adam Scherling, Rosanna Smart, Andrew R. Morral|date=April 22, 2020|doi=10.7249/TL354|language=en-US|last1 = Schell | first1 = Terry L. | last2 = Peterson | first2 = Samuel | last3 = Vegetabile | first3 = Brian G. | last4 = Scherling | first4 = Adam | last5 = Smart | first5 = Rosanna | last6 = Morral | first6 = Andrew R. }}</ref>
+! data-sort-type="number" | Murder and<br />Nonnegligent<br />Manslaughter<br />Rate<br /> <small>(per 100,000)</small> <br /> <small>(2019)</small>
+! data-sort-type="number" | Murder Rate<br /> <small>(per 100,000)</small> <br /> <small>(2019)</small>
+! data-sort-type="number" | Firearm<br />Murder Rate<br /> <small>(per 100,000)</small> <br /> <small>(2019)</small>
