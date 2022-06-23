@@ -1,0 +1,500 @@
+|-
+| [[Alabama]]
+| style="background: #ffddcc" | 4903185
+| style="background: #ffddcc" | 358
+| -{{efn|name=Alabama-limited-data|Limited data for 2019 were available for Alabama.}}
+| -{{efn|name=Alabama-limited-data}}
+| style="background: #ffddcc" | 52
+| style="background: #ffbbcc" | 7.3
+| -{{efn|name=Alabama-limited-data}}
+| -{{efn|name=Alabama-limited-data}}
+|-
+| [[Alaska]]
+| style="background: #ccffcc" | 731545
+| style="background: #ffffcc" | 69
+| style="background: #ffffcc" | 69
+| style="background: #ffffcc" | 44
+| style="background: #ffbbcc" | 57
+| style="background: #ffbbcc" | 9.4
+| style="background: #ffbbcc" | 9.4
+| style="background: #ffbbcc" | 6.0
+|-
+| [[Arizona]]
+| style="background: #ffddcc" | 7278717
+| style="background: #ffddcc" | 365
+| style="background: #ffddcc" | 337
+| style="background: #ffddcc" | 213
+| style="background: #ffffcc" | 36
+| style="background: #ffddcc" | 5.0
+| style="background: #ffddcc" | 4.6
+| style="background: #ffddcc" | 2.9
+|-
+| [[Arkansas]]
+| style="background: #ffffcc" | 3017804
+| style="background: #ffddcc" | 242
+| style="background: #ffddcc" | 231
+| style="background: #ffddcc" | 177
+| style="background: #ffddcc" | 51
+| style="background: #ffbbcc" | 8.0
+| style="background: #ffbbcc" | 7.7
+| style="background: #ffbbcc" | 5.9
+|-
+| [[California]]
+| style="background: #ffbbcc" | 39512223
+| style="background: #ffbbcc" | 1690
+| style="background: #ffbbcc" | 1679
+| style="background: #ffbbcc" | 1142
+| style="background: #ccffcc" | 16
+| style="background: #ffffcc" | 4.3
+| style="background: #ffddcc" | 4.2
+| style="background: #ffddcc" | 2.9
+|-
+| [[Colorado]]
+| style="background: #ffddcc" | 5758736
+| style="background: #ffddcc" | 218
+| style="background: #ffddcc" | 209
+| style="background: #ffddcc" | 135
+| style="background: #ffffcc" | 37
+| style="background: #ffffcc" | 3.8
+| style="background: #ffffcc" | 3.6
+| style="background: #ffffcc" | 2.3
+|-
+| [[Connecticut]]
+| style="background: #ffffcc" | 3565287
+| style="background: #ffffcc" | 104
+| style="background: #ffffcc" | 104
+| style="background: #ffffcc" | 65
+| style="background: #ccffcc" | 18
+| style="background: #ffffcc" | 2.9
+| style="background: #ffffcc" | 2.9
+| style="background: #ffffcc" | 1.8
+|-
+| [[Delaware]]
+| style="background: #ccffcc" | 973764
+| style="background: #ccffcc" | 48
+| style="background: #ccffcc" | 48
+| style="background: #ffffcc" | 40
+| style="background: #ffffcc" | 38
+| style="background: #ffddcc" | 4.9
+| style="background: #ffddcc" | 4.9
+| style="background: #ffbbcc" | 4.1
+|-
+| [[Florida]]
+| style="background: #ffbbcc" | 21477737
+| style="background: #ffbbcc" | 1122
+| -{{efn|name=Florida-limited-data|No data available.}}
+| -{{efn|name=Florida-limited-data}}
+| style="background: #ccffcc" | 28
+| style="background: #ffddcc" | 5.2
+| -{{efn|name=Florida-limited-data}}
+| -{{efn|name=Florida-limited-data}}
+|-
+| [[Georgia]]
+| style="background: #ffbbcc" | 10617423
+| style="background: #ffbbcc" | 654
+| style="background: #ffddcc" | 445
+| style="background: #ffddcc" | 367
+| style="background: #ffffcc" | 37
+| style="background: #ffbbcc" | 6.2
+| style="background: #ffddcc" | 4.2
+| style="background: #ffddcc" | 3.5
+|-
+| [[Hawaii]]
+| style="background: #ccffcc" | 1415872
+| style="background: #ccffcc" | 48
+| style="background: #ccffcc" | 32
+| style="background: #ccffcc" | 9
+| style="background: #ccffcc" | 9
+| style="background: #ffffcc" | 3.4
+| style="background: #ccffcc" | 2.3
+| style="background: #ccffcc" | 0.6
+|-
+| [[Idaho]]
+| style="background: #ccffcc" | 1787065
+| style="background: #ccffcc" | 35
+| style="background: #ccffcc" | 35
+| style="background: #ccffcc" | 16
+| style="background: #ffbbcc" | 57
+| style="background: #ccffcc" | 2.0
+| style="background: #ccffcc" | 2.0
+| style="background: #ccffcc" | 0.9
+|-
+| [[Illinois]]
+| style="background: #ffbbcc" | 12671821
+| style="background: #ffbbcc" | 832
+| style="background: #ffbbcc" | 771{{efn|name=Illinois-limited-data|Limited supplemental homicide data were received.}}
+| style="background: #ffbbcc" | 647{{efn|name=Illinois-limited-data}}
+| style="background: #ccffcc" | 22
+| style="background: #ffbbcc" | 6.6
+| style="background: #ffbbcc" | 6.1{{efn|name=Illinois-limited-data}}
+| style="background: #ffbbcc" | 5.1{{efn|name=Illinois-limited-data}}
+|-
+| [[Indiana]]
+| style="background: #ffddcc" | 6732219
+| style="background: #ffddcc" | 377
+| style="background: #ffddcc" | 247
+| style="background: #ffddcc" | 185
+| style="background: #ffddcc" | 42
+| style="background: #ffddcc" | 5.6
+| style="background: #ffffcc" | 3.7
+| style="background: #ffffcc" | 2.7
+|-
+| [[Iowa]]
+| style="background: #ffffcc" | 3155070
+| style="background: #ccffcc" | 60
+| style="background: #ffffcc" | 58
+| style="background: #ccffcc" | 36
+| style="background: #ffffcc" | 38
+| style="background: #ccffcc" | 1.9
+| style="background: #ccffcc" | 1.8
+| style="background: #ccffcc" | 1.1
+|-
+| [[Kansas]]
+| style="background: #ffffcc" | 2913314
+| style="background: #ffffcc" | 105
+| style="background: #ffffcc" | 93
+| style="background: #ffffcc" | 56
+| style="background: #ffddcc" | 42
+| style="background: #ffffcc" | 3.6
+| style="background: #ffffcc" | 3.2
+| style="background: #ffffcc" | 1.9
+|-
+| [[Kentucky]]
+| style="background: #ffffcc" | 4467673
+| style="background: #ffddcc" | 221
+| style="background: #ffddcc" | 221
+| style="background: #ffddcc" | 174
+| style="background: #ffddcc" | 52
+| style="background: #ffddcc" | 4.9
+| style="background: #ffddcc" | 4.9
+| style="background: #ffddcc" | 3.9
+|-
+| [[Louisiana]]
+| style="background: #ffddcc" | 4648794
+| style="background: #ffbbcc" | 544
+| style="background: #ffbbcc" | 522
+| style="background: #ffbbcc" | 433
+| style="background: #ffddcc" | 52
+| style="background: #ffbbcc" | 11.7
+| style="background: #ffbbcc" | 11.2
+| style="background: #ffbbcc" | 9.3
+|-
+| [[Maine]]
+| style="background: #ccffcc" | 1344212
+| style="background: #ccffcc" | 20
+| style="background: #ccffcc" | 20
+| style="background: #ccffcc" | 13
+| style="background: #ffddcc" | 47
+| style="background: #ccffcc" | 1.5
+| style="background: #ccffcc" | 1.5
+| style="background: #ccffcc" | 1.0
+|-
+| [[Maryland]]
+| style="background: #ffddcc" | 6045680
+| style="background: #ffbbcc" | 542
+| style="background: #ffbbcc" | 551
+| style="background: #ffbbcc" | 460
+| style="background: #ccffcc" | 16
+| style="background: #ffbbcc" | 9.0
+| style="background: #ffbbcc" | 9.1
+| style="background: #ffbbcc" | 7.6
+|-
+| [[Massachusetts]]
+| style="background: #ffddcc" | 6892503
+| style="background: #ffffcc" | 152
+| style="background: #ffffcc" | 146
+| style="background: #ffffcc" | 86
+| style="background: #ccffcc" | 9
+| style="background: #ccffcc" | 2.2
+| style="background: #ccffcc" | 2.1
+| style="background: #ccffcc" | 1.2
+|-
+| [[Michigan]]
+| style="background: #ffbbcc" | 9986857
+| style="background: #ffbbcc" | 556
+| style="background: #ffbbcc" | 551
+| style="background: #ffbbcc" | 379
+| style="background: #ffffcc" | 38
+| style="background: #ffddcc" | 5.6
+| style="background: #ffbbcc" | 5.5
+| style="background: #ffddcc" | 3.8
+|-
+| [[Minnesota]]
+| style="background: #ffddcc" | 5639632
+| style="background: #ffffcc" | 117
+| style="background: #ffffcc" | 114
+| style="background: #ffffcc" | 79
+| style="background: #ffffcc" | 39
+| style="background: #ccffcc" | 2.1
+| style="background: #ccffcc" | 2.0
+| style="background: #ccffcc" | 1.4
+|-
+| [[Mississippi]]
+| style="background: #ffffcc" | 2976149
+| style="background: #ffddcc" | 332
+| style="background: #ffddcc" | 189
+| style="background: #ffddcc" | 153
+| style="background: #ffbbcc" | 54
+| style="background: #ffbbcc" | 11.2
+| style="background: #ffbbcc" | 6.4
+| style="background: #ffbbcc" | 5.1
+|-
+| [[Missouri]]
+| style="background: #ffddcc" | 6137428
+| style="background: #ffbbcc" | 568
+| style="background: #ffbbcc" | 566
+| style="background: #ffbbcc" | 486
+| style="background: #ffddcc" | 52
+| style="background: #ffbbcc" | 9.3
+| style="background: #ffbbcc" | 9.2
+| style="background: #ffbbcc" | 7.9
+|-
+| [[Montana]]
+| style="background: #ccffcc" | 1068778
+| style="background: #ccffcc" | 27
+| style="background: #ccffcc" | 27
+| style="background: #ccffcc" | 16
+| style="background: #ffbbcc" | 65
+| style="background: #ccffcc" | 2.5
+| style="background: #ffffcc" | 2.5
+| style="background: #ffffcc" | 1.5
+|-
+| [[Nebraska]]
+| style="background: #ffffcc" | 1934408
+| style="background: #ccffcc" | 45
+| style="background: #ccffcc" | 45
+| style="background: #ccffcc" | 35
+| style="background: #ffffcc" | 39
+| style="background: #ccffcc" | 2.3
+| style="background: #ccffcc" | 2.3
+| style="background: #ffffcc" | 1.8
+|-
+| [[Nevada]]
+| style="background: #ffffcc" | 3080156
+| style="background: #ffffcc" | 143
+| style="background: #ffffcc" | 147
+| style="background: #ffffcc" | 94
+| style="background: #ccffcc" | 32
+| style="background: #ffddcc" | 4.6
+| style="background: #ffddcc" | 4.8
+| style="background: #ffddcc" | 3.1
+|-
+| [[New Hampshire]]
+| style="background: #ccffcc" | 1359711
+| style="background: #ccffcc" | 33
+| style="background: #ccffcc" | 33
+| style="background: #ccffcc" | 16
+| style="background: #ffddcc" | 46
+| style="background: #ccffcc" | 2.4
+| style="background: #ffffcc" | 2.4
+| style="background: #ccffcc" | 1.2
+|-
+| [[New Jersey]]
+| style="background: #ffbbcc" | 8882190
+| style="background: #ffddcc" | 262
+| style="background: #ffddcc" | 262
+| style="background: #ffddcc" | 176
+| style="background: #ccffcc" | 8
+| style="background: #ffffcc" | 2.9
+| style="background: #ffffcc" | 2.9
+| style="background: #ffffcc" | 2.0
+|-
+| [[New Mexico]]
+| style="background: #ffffcc" | 2096829
+| style="background: #ffffcc" | 181
+| style="background: #ffffcc" | 146
+| style="background: #ffffcc" | 96
+| style="background: #ccffcc" | 35
+| style="background: #ffbbcc" | 8.6
+| style="background: #ffbbcc" | 7.0
+| style="background: #ffbbcc" | 4.6
+|-
+| [[New York]]
+| style="background: #ffbbcc" | 19453561
+| style="background: #ffbbcc" | 558
+| style="background: #ffbbcc" | 550
+| style="background: #ffddcc" | 298
+| style="background: #ccffcc" | 14
+| style="background: #ffffcc" | 2.9
+| style="background: #ffffcc" | 2.8
+| style="background: #ffffcc" | 1.5
+|-
+| [[North Carolina]]
+| style="background: #ffbbcc" | 10488084
+| style="background: #ffbbcc" | 632
+| style="background: #ffbbcc" | 516
+| style="background: #ffbbcc" | 383
+| style="background: #ffffcc" | 37
+| style="background: #ffddcc" | 6.0
+| style="background: #ffddcc" | 4.9
+| style="background: #ffddcc" | 3.7
+|-
+| [[North Dakota]]
+| style="background: #ccffcc" | 762062
+| style="background: #ccffcc" | 24
+| style="background: #ccffcc" | 26
+| style="background: #ccffcc" | 13
+| style="background: #ffbbcc" | 53
+| style="background: #ffffcc" | 3.1
+| style="background: #ffffcc" | 3.4
+| style="background: #ffffcc" | 1.7
+|-
+| [[Ohio]]
+| style="background: #ffbbcc" | 11689100
+| style="background: #ffbbcc" | 538
+| style="background: #ffbbcc" | 521
+| style="background: #ffbbcc" | 382
+| style="background: #ffddcc" | 41
+| style="background: #ffddcc" | 4.6
+| style="background: #ffddcc" | 4.5
+| style="background: #ffddcc" | 3.3
+|-
+| [[Oklahoma]]
+| style="background: #ffffcc" | 3956971
+| style="background: #ffddcc" | 266
+| style="background: #ffddcc" | 264
+| style="background: #ffddcc" | 189
+| style="background: #ffbbcc" | 54
+| style="background: #ffbbcc" | 6.7
+| style="background: #ffbbcc" | 6.7
+| style="background: #ffbbcc" | 4.8
+|-
+| [[Oregon]]
+| style="background: #ffffcc" | 4217737
+| style="background: #ffffcc" | 116
+| style="background: #ffffcc" | 98
+| style="background: #ffffcc" | 61
+| style="background: #ffddcc" | 41
+| style="background: #ffffcc" | 2.8
+| style="background: #ccffcc" | 2.3
+| style="background: #ccffcc" | 1.4
+|-
+| [[Pennsylvania]]
+| style="background: #ffbbcc" | 12801989
+| style="background: #ffbbcc" | 669
+| style="background: #ffbbcc" | 556
+| style="background: #ffbbcc" | 429
+| style="background: #ffddcc" | 40
+| style="background: #ffddcc" | 5.2
+| style="background: #ffddcc" | 4.3
+| style="background: #ffddcc" | 3.4
+|-
+| [[Rhode Island]]
+| style="background: #ccffcc" | 1059361
+| style="background: #ccffcc" | 25
+| style="background: #ccffcc" | 25
+| style="background: #ccffcc" | 10
+| style="background: #ccffcc" | 13
+| style="background: #ccffcc" | 2.4
+| style="background: #ffffcc" | 2.4
+| style="background: #ccffcc" | 0.9
+|-
+| [[South Carolina]]
+| style="background: #ffddcc" | 5148714
+| style="background: #ffddcc" | 464
+| style="background: #ffddcc" | 445
+| style="background: #ffbbcc" | 381
+| style="background: #ffddcc" | 45
+| style="background: #ffbbcc" | 9.0
+| style="background: #ffbbcc" | 8.6
+| style="background: #ffbbcc" | 7.4
+|-
+| [[South Dakota]]
+| style="background: #ccffcc" | 884659
+| style="background: #ccffcc" | 17
+| style="background: #ccffcc" | 19
+| style="background: #ccffcc" | 7
+| style="background: #ffbbcc" | 55
+| style="background: #ccffcc" | 1.9
+| style="background: #ccffcc" | 2.1
+| style="background: #ccffcc" | 0.8
+|-
+| [[Tennessee]]
+| style="background: #ffddcc" | 6829174
+| style="background: #ffddcc" | 498
+| style="background: #ffbbcc" | 498
+| style="background: #ffbbcc" | 391
+| style="background: #ffddcc" | 46
+| style="background: #ffbbcc" | 7.3
+| style="background: #ffbbcc" | 7.3
+| style="background: #ffbbcc" | 5.7
+|-
+| [[Texas]]
+| style="background: #ffbbcc" | 28995881
+| style="background: #ffbbcc" | 1409
+| style="background: #ffbbcc" | 1379
+| style="background: #ffbbcc" | 1064
+| style="background: #ccffcc" | 35
+| style="background: #ffddcc" | 4.9
+| style="background: #ffddcc" | 4.8
+| style="background: #ffddcc" | 3.7
+|-
+| [[Utah]]
+| style="background: #ffffcc" | 3205958
+| style="background: #ffffcc" | 72
+| style="background: #ffffcc" | 66
+| style="background: #ffffcc" | 41
+| style="background: #ffffcc" | 39
+| style="background: #ccffcc" | 2.2
+| style="background: #ccffcc" | 2.1
+| style="background: #ccffcc" | 1.3
+|-
+| [[Vermont]]
+| style="background: #ccffcc" | 623989
+| style="background: #ccffcc" | 11
+| style="background: #ccffcc" | 11
+| style="background: #ccffcc" | 8
+| style="background: #ffddcc" | 50
+| style="background: #ccffcc" | 1.8
+| style="background: #ccffcc" | 1.8
+| style="background: #ccffcc" | 1.3
+|-
+| [[Virginia]]
+| style="background: #ffbbcc" | 8535519
+| style="background: #ffddcc" | 426
+| style="background: #ffddcc" | 427
+| style="background: #ffddcc" | 323
+| style="background: #ccffcc" | 35
+| style="background: #ffddcc" | 5.0
+| style="background: #ffddcc" | 5.0
+| style="background: #ffddcc" | 3.8
+|-
+| [[Washington]]
+| style="background: #ffbbcc" | 7614893
+| style="background: #ffffcc" | 198
+| style="background: #ffddcc" | 194
+| style="background: #ffddcc" | 135
+| style="background: #ccffcc" | 32
+| style="background: #ffffcc" | 2.6
+| style="background: #ffffcc" | 2.5
+| style="background: #ffffcc" | 1.8
+|-
+| [[West Virginia]]
+| style="background: #ccffcc" | 1792147
+| style="background: #ffffcc" | 78
+| style="background: #ffffcc" | 72
+| style="background: #ffffcc" | 48
+| style="background: #ffbbcc" | 60
+| style="background: #ffffcc" | 4.4
+| style="background: #ffddcc" | 4.0
+| style="background: #ffffcc" | 2.7
+|-
+| [[Wisconsin]]
+| style="background: #ffddcc" | 5822434
+| style="background: #ffffcc" | 175
+| style="background: #ffffcc" | 178
+| style="background: #ffffcc" | 119
+| style="background: #ffddcc" | 47
+| style="background: #ffffcc" | 3.0
+| style="background: #ffffcc" | 3.1
+| style="background: #ffffcc" | 2.0
+|-
+| [[Wyoming]]
+| style="background: #ccffcc" | 578759
+| style="background: #ccffcc" | 13
+| style="background: #ccffcc" | 13
+| style="background: #ccffcc" | 9
+| style="background: #ffbbcc" | 60
+| style="background: #ccffcc" | 2.2
+| style="background: #ccffcc" | 2.2
+| style="background: #ffffcc" | 1.6
