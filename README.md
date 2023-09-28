@@ -27,8 +27,26 @@ For paste into the Wikipedia editor.
 
 # Future Years' Updates
 
-Future updates could require changes to munging (such as changing skipheader/skipfooter constants,
+~~Future updates could require changes to munging (such as changing skipheader/skipfooter constants,
 for a different header style or a different number of footnotes), changes to the footnote annotation
 (if substantial ommisions in data from FBI UCR tables 4 or 20 change on per-state basis), renewal of data
 from more current sources (such as using most recent census state populations, or gathering new household
-firearm ownership rates), or other unforeseen changes.
+firearm ownership rates), or other unforeseen changes.~~
+
+**NOTE**: The data format for states to report these data to the FBI has changed as of 2020, so completely
+new data wrangling will be needed, and it will yet be another year or more until a preponderance of states
+are accurately reporting incident data. Per the FBI:
+
+> As the UCR Program transitions to a NIBRS-only data collection, changes have been implemented at the national level,
+> though not all have been adopted by state and local agencies at this time.
+
+At the time of writing, the most recent NIBRS data is only available for 2022. "As of June 2022...
+66% of the U.S. population is covered by NIBRS-reporting law enforcement agencies". Ommissions include
+the entirety of Florida and almost the entirety of California.
+(Although I'm not holding my breath for Florida... If my memory serves they were the only state to completely omit
+categorizing murders by weapon for all of the past couple years.)
+
+Sources:
+- https://ucr.fbi.gov/nibrs/2019
+- https://thecrimereport.org/2022/10/11/was-crime-up-or-down-in-2021-why-the-fbi-cant-tell-us/
+- https://bjs.ojp.gov/national-incident-based-reporting-system-nibrs
